@@ -30,7 +30,7 @@ class Song {
     }
 }
 
-public class MediaPlayerQueue {
+public class Q2_MediaPlayerQueue {
     // LinkedList managing the playback queue efficiently for insertions at both ends
     private LinkedList<Song> playlist = new LinkedList<>();
 
