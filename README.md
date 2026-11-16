@@ -41,7 +41,7 @@
 </p>
 
 ---
-
+<!-- 
 ## Projects
 
 ### 📌 Featured Projects
@@ -50,3 +50,4 @@
 | :--- | :--- | :--- |
 | [Project Name 1](https://github.com) | Brief description of your first project and what problem it solves. | `ReactJS` `FastAPI` `PostgreSQL` |
 | [Project Name 2](https://github.com) | Brief description of your second project and its key features. | `ReactJS` `CSS3` `Leaflet` |
+-->
